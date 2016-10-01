@@ -7,7 +7,7 @@ package fizzbuzz;
 
 /**
  *
- * @author Dhruv Prasad
+ * @author Dhruv
  * @class AP CSA
  */
 public class FizzBuzz {
